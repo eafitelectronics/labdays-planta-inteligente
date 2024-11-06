@@ -2,8 +2,6 @@
 
 Objetivo: Realizar una aplicación de interconexión de Hardware y Software en el contexto de Agricultura Digital, para monitorear una variable de un sensor de humedad, utilizando el sistema embebido ESP32 y notificando si le falta agua a la planta mediante el LED que trae el ESP32. En resumen realizar una planta inteligente que informa cuando necesita agua.
 
-Es una aplicación muy básica, donde las “cosas” no son inteligentes, sino meramente reactivas al entorno (monitorean el contexto).
-
 ![alt text](docs/demo.webp)
 
 ## Materiales Requeridos
