@@ -44,7 +44,7 @@ Inicialmente, asegúrese que el ESP32 se encuentre desconectado del cable USB y 
 
 4. Ahora sumerja el sensor en agua hasta máximo las franjas doradas, anote el valor aproximado en el monitor serial y guardelo como `VAL_SENSOR_AGUA`
 
-5. Edite en el código de Arduino tanto en la línea 19 como en la línea 20 con los valores que anotó en los pasos anteriores.
+5. Edite en el código de Arduino tanto en la línea 21 como en la línea 22 con los valores que anotó en los pasos anteriores.
 
    Ej: Reemplace `XXX` por `VAL_SENSOR_AIRE` y `YYY` por `VAL_SENSOR_AGUA`.
 
